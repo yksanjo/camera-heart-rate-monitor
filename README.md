@@ -1,4 +1,8 @@
 # camera-heart-rate-monitor
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/camera-heart-rate-monitor?style=social)](https://github.com/yksanjo/camera-heart-rate-monitor/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/camera-heart-rate-monitor.svg)](https://github.com/yksanjo/camera-heart-rate-monitor/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/camera-heart-rate-monitor.svg)](https://github.com/yksanjo/camera-heart-rate-monitor/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/camera-heart-rate-monitor.svg)](https://github.com/yksanjo/camera-heart-rate-monitor/commits/main)
+
 Quick python script which allows you to detect your heart rate by simply placing your finger on your camera.
 
 # How does it work?
